@@ -102,4 +102,3 @@ Thank you to all authors, institutions, and contributors who have made their bat
 
 Each linked dataset and paper remains subject to the terms provided by its respective owner. Public availability does not establish a common license across all resources. This directory does not grant permission to use or redistribute third-party data.
 
-No repository license has been selected in this draft.
